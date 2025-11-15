@@ -39,9 +39,7 @@ The dataset includes:
 2. Open it in Microsoft Excel.
 3. Explore the cleaned data, pivot tables, and dashboard visuals.
 
-## 📸 Dashboard Preview
-*(Add your Excel dashboard screenshot here)*
 
 ---
-**Author:** Ridwa Yakubu  
-**GitHub Repository:** [Bike Store Excel Project](https://github.com/yourusername/bikestore-excel)
+**Author:** Ridwan Yakubu  
+**GitHub Repository:** [Bike-Store-Excel-Analysis-And-visualization](https://github.com/yakuburidwaan/Bike-Store-Excel-Analysis-And-visualization)
